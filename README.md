@@ -4,6 +4,7 @@
 Cara menjalankan program dari awal
 
 Persiapan
+
 Buka terminal Ubuntu, lalu jalankan:
 
 ### Terminal 1
