@@ -54,7 +54,7 @@ source /opt/ros/jazzy/setup.bash
 source ~/ros2_ws/install/setup.bash
 ros2 topic echo /global_coordinate/pose
 
-**menghitung kecepatan global menggunakan nilai θ yang sudah diperbarui pada setiap siklus.**
+**Menghitung kecepatan global menggunakan nilai θ yang sudah diperbarui pada setiap siklus.**
 
 
 ### Terminal 6
